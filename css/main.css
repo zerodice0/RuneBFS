@@ -73,8 +73,8 @@ div.alert + #main {
     background-repeat: no-repeat;
     background-size: contain;
     display: inline-block;
-    height: 30px;
-    line-height: 30px;
+    height: 20px;
+    line-height: 22px;
     padding-left: 33px;
     margin-right: 15px;
     cursor: pointer;
@@ -190,7 +190,7 @@ div.alert + #main {
 }
 
 button.close {
-    line-height: 30px;
+    line-height: 15px;
     font-size: 30px;
 }
 
