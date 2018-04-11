@@ -46,7 +46,7 @@ define(['jquery', 'underscore'], function ($, _) {
 
     data["currentversion"] = { "ja-JP": "ver：", "zh-TW": "當前版本：", "en-US": "Current Ver.:", "zh-CN": "当前版本：" };
     data["officalsite"] = { "ja-JP": "公式サイト", "zh-TW": "官網", "en-US": "Offical Site", "zh-CN": "官网" };
-    data["donate"] = { "ja-JP": "NGA RO", "zh-TW": "送版主女裝", "en-US": "NGA RO", "zh-CN": "送版主女装" };
+    data["donate"] = { "ja-JP": "ro.tnker.com", "zh-TW": "", "en-US": "", "zh-CN": "" };
     data["fork"] = { "ja-JP": "RuneBFS ❤︎ forked", "zh-TW": "", "en-US": "", "zh-CN": "" };
 
     data["ui"] = { "ja-JP": "言語", "zh-TW": "界面語言", "en-US": "UI", "zh-CN": "界面语言" };
